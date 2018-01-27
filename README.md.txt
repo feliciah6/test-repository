@@ -1,2 +1,3 @@
-first commit
-learnt how to use github
+Git 101
+------------
+learning how to use Git
